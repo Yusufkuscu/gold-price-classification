@@ -5,8 +5,8 @@ Machine learning models were trained and compared based on multiple evaluation m
 
 ## 📁 Project Structure
 
-- `gold_price_classification.ipynb` — Main notebook with the entire ML pipeline (data prep, training, evaluation, plots).
-- `gold_price_classification.py` — Python script version of the notebook.
+- `goldprice.ipynb` — Main notebook with the entire ML pipeline (data prep, training, evaluation, plots).
+- `goldprice.py` — Python script version of the notebook.
 - `report.pdf` — Full project report including results, analysis, and visuals (in Turkish).
 - `README.md` — Project overview.
 
